@@ -1,4 +1,4 @@
-# console-blackjack
+# Console Blackjack 
 This is a simple console blackjack game where the player plays vs a computer.
 
 # The rules are simple 
